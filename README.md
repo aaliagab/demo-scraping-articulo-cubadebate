@@ -28,7 +28,7 @@ Get the project files on your local machine.
 
 ```bash
 # If using git
-git clone <REPOSITORY_URL>
+git clone https://github.com/aaliagab/demo-scraping-articulo-cubadebate.git
 
 # Or just download and unzip the project
 ```
